@@ -8,7 +8,7 @@ The Radar System Prototype aims to provide a practical demonstration of radar te
 
 ## Preview
 
-![preview img](/radar_system.jpg)
+![Radar System Prototype](radar_system.jpg)
 
 ## Hardware Requirements
 
