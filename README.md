@@ -6,6 +6,10 @@ This repository contains the Arduino code and design files for the Radar System 
 
 The Radar System Prototype aims to provide a practical demonstration of radar technology using an Arduino UNO, multiple ultrasonic sensors, a servo motor, an LCD display, a buzzer, and LEDs. It is designed to scan and detect objects within a 250 cm range and provide real-time feedback on an LCD display, accompanied by audible alerts for close-range detections.
 
+## Preview
+
+![preview img](/radar_system.jpg)
+
 ## Hardware Requirements
 
 - Arduino UNO
