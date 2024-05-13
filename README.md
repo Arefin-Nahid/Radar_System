@@ -51,17 +51,11 @@ Contributions to this project are welcome! Please follow these steps to contribu
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a pull request.
 
-## License
+## Authors
+- [Arefin Nahid](https://github.com/Arefin-Nahid)<br>
+Department of Computer Science and Engineering<br>
+Khulna University of Engineering & Technology, Khulna 9203
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
-
-## Acknowledgments
-
-- Thanks to the Arduino community for their invaluable resources and support.
-- Special thanks to everyone who has contributed to testing and refining this prototype.
-
-## Contact
-
-For any inquiries or issues, please open an issue on GitHub or contact the repository owner directly through GitHub.
-
-Enjoy building and experimenting with your Radar System Prototype!
+- [Zunayed Khan](https://github.com/deyanuz)<br>
+Department of Computer Science and Engineering<br>
+Khulna University of Engineering & Technology, Khulna 9203.
